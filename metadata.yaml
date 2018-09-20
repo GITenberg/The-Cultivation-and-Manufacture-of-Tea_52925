@@ -1,0 +1,22 @@
+_repo: The-Cultivation-and-Manufacture-of-Tea_52925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Money, Edward
+    gutenberg_agent_id: '34649'
+    url: http://www.gutenberg.org/2009/agents/34649
+description: ''
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Tea'
+- GITenberg
+title: The Cultivation and Manufacture of Tea
+url: http://www.gutenberg.org/ebooks/52925
