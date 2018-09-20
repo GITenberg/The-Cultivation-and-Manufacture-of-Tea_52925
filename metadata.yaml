@@ -1,11 +1,16 @@
 _repo: The-Cultivation-and-Manufacture-of-Tea_52925
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52925-h/images/cover.jpg
 creator:
   author:
     agent_name: Money, Edward
     gutenberg_agent_id: '34649'
     url: http://www.gutenberg.org/2009/agents/34649
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52925#The-Cultivation-and-Manufacture-of-Tea
 gutenberg_issued: '2016-08-29'
 gutenberg_type: Text
 identifiers:
